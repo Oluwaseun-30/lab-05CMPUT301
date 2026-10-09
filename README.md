@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Oluwaseun Daniel Adegbite
+- **CCID:** `odadegbi
 
 ## References and Resources
 
